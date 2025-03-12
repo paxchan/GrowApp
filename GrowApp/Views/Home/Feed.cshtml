@@ -1,0 +1,90 @@
+﻿@{
+}
+
+@*
+	@model whatever we name it!!
+*@
+
+@model IEnumerable<YourNamespace.Models.FriendPost>
+
+@{
+    ViewData["Title"] = "Friend's Feed";
+}
+
+<h1>Friend's Feed</h1>
+
+<div class="search-bar">
+    <input type="text" id="searchInput" placeholder="Search for a friend..." onkeyup="searchFriends()" />
+</div>
+
+<div id="postsContainer">
+    @foreach (var post in Model)
+    {
+        <div class="post">
+            <div class="profile">
+                <img src="@post.ProfileImageUrl" alt="@post.Name" class="profile-pic" />
+                <div>
+                    <h2>@post.Name</h2>
+                    <p>@post.Status</p>
+                </div>
+            </div>
+            <img src="@post.PostImageUrl" alt="Post Image" class="post-img" />
+            <p class="post-text">@post.Text</p>
+        </div>
+    }
+</div>
+
+<script>
+    function searchFriends() {
+        let input = document.getElementById("searchInput").value.toLowerCase();
+        let posts = document.querySelectorAll(".post");
+        posts.forEach(post => {
+            let name = post.querySelector("h2").innerText.toLowerCase();
+            post.style.display = name.includes(input) ? "block" : "none";
+        });
+    }
+</script>
+
+<style>
+    .search-bar {
+        margin-bottom: 20px;
+    }
+
+    .search-bar input {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .post {
+        border: 1px solid #ddd;
+        padding: 15px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+        background: #f9f9f9;
+    }
+
+    .profile {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .profile-pic {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+
+    .post-img {
+        width: 100%;
+        max-height: 300px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .post-text {
+        margin-top: 10px;
+    }
+</style>
