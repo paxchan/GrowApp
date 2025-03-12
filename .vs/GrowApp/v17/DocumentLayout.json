@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\autjo\\source\\repos\\GrowApp\\",
+  "WorkspaceRootPath": "C:\\Users\\sarah\\source\\repos\\GrowApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\autjo\\source\\repos\\growapp\\growapp\\growapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\growapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\sarah\\source\\repos\\growapp\\growapp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\autjo\\source\\repos\\growapp\\growapp\\views\\home\\feed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\views\\home\\feed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\sarah\\source\\repos\\growapp\\growapp\\models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\autjo\\source\\repos\\growapp\\growapp\\views\\home\\goals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\views\\home\\goals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\sarah\\source\\repos\\growapp\\growapp\\models\\accountability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\models\\accountability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\autjo\\source\\repos\\growapp\\growapp\\views\\home\\schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\views\\home\\schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\sarah\\source\\repos\\growapp\\growapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\autjo\\source\\repos\\growapp\\growapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\sarah\\source\\repos\\growapp\\growapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|c:\\users\\sarah\\source\\repos\\growapp\\growapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1339705-0B55-4467-B441-0CA94BF2F80B}|GrowApp\\GrowApp.csproj|solutionrelative:growapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,59 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GrowApp",
-              "DocumentMoniker": "C:\\Users\\autjo\\Source\\Repos\\GrowApp\\GrowApp\\GrowApp.csproj",
-              "RelativeDocumentMoniker": "GrowApp\\GrowApp.csproj",
-              "ToolTip": "C:\\Users\\autjo\\Source\\Repos\\GrowApp\\GrowApp\\GrowApp.csproj",
-              "RelativeToolTip": "GrowApp\\GrowApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-11T20:12:44.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Feed.cshtml",
-              "DocumentMoniker": "C:\\Users\\autjo\\source\\repos\\GrowApp\\GrowApp\\Views\\Home\\Feed.cshtml",
-              "RelativeDocumentMoniker": "GrowApp\\Views\\Home\\Feed.cshtml",
-              "ToolTip": "C:\\Users\\autjo\\source\\repos\\GrowApp\\GrowApp\\Views\\Home\\Feed.cshtml",
-              "RelativeToolTip": "GrowApp\\Views\\Home\\Feed.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T19:28:57.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Schedule.cshtml",
-              "DocumentMoniker": "C:\\Users\\autjo\\source\\repos\\GrowApp\\GrowApp\\Views\\Home\\Schedule.cshtml",
-              "RelativeDocumentMoniker": "GrowApp\\Views\\Home\\Schedule.cshtml",
-              "ToolTip": "C:\\Users\\autjo\\source\\repos\\GrowApp\\GrowApp\\Views\\Home\\Schedule.cshtml",
-              "RelativeToolTip": "GrowApp\\Views\\Home\\Schedule.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T19:27:19.031Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -90,28 +43,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Goals.cshtml",
-              "DocumentMoniker": "C:\\Users\\autjo\\source\\repos\\GrowApp\\GrowApp\\Views\\Home\\Goals.cshtml",
-              "RelativeDocumentMoniker": "GrowApp\\Views\\Home\\Goals.cshtml",
-              "ToolTip": "C:\\Users\\autjo\\source\\repos\\GrowApp\\GrowApp\\Views\\Home\\Goals.cshtml",
-              "RelativeToolTip": "GrowApp\\Views\\Home\\Goals.cshtml",
+              "Title": "Accountability.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Models\\Accountability.cs",
+              "RelativeDocumentMoniker": "GrowApp\\Models\\Accountability.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Models\\Accountability.cs",
+              "RelativeToolTip": "GrowApp\\Models\\Accountability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:11:50.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GrowApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GrowApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T19:27:15.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:24:13.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\autjo\\source\\repos\\GrowApp\\GrowApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Program.cs",
               "RelativeDocumentMoniker": "GrowApp\\Program.cs",
-              "ToolTip": "C:\\Users\\autjo\\source\\repos\\GrowApp\\GrowApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Program.cs",
               "RelativeToolTip": "GrowApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T19:25:03.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:23:49.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "GrowApp\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Models\\Post.cs",
+              "RelativeToolTip": "GrowApp\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:29:08.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GrowApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GrowApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:24:35.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Models\\Goal.cs",
+              "RelativeDocumentMoniker": "GrowApp\\Models\\Goal.cs",
+              "ToolTip": "C:\\Users\\sarah\\source\\repos\\GrowApp\\GrowApp\\Models\\Goal.cs",
+              "RelativeToolTip": "GrowApp\\Models\\Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:55:59.121Z"
             }
           ]
         }
